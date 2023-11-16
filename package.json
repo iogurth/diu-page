@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Basic Frontend Development Environment to start an app with Webpack",
   "main": "src/index.js",
+  "homepage": "https://iogurth.github.io/diu-page/build"
   "repository": {
     "type": "git",
     "url": "https://github.com/alexarenasf/frontend-sample-app"
